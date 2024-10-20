@@ -1,0 +1,89 @@
+.workoutplanhead {
+    color: #5F5B5B;
+    font-family: "Serif";
+    font-size: 70px;
+}
+
+.navitems {
+    color: #5F5B5B;
+    font-family: "serif";
+
+}
+
+.backgroundcolor {
+    background-color: #E2EAF4;
+    background-size: 100vh;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+
+}
+
+.backgroundcolor1 {
+    background-color: #E8E8E8;
+    background-size: 100vh;
+    height: 100vh;
+    text-align: center;
+
+}
+
+.color1 {
+    background-color: #ff7d7d;
+    color: white;
+}
+
+.color2 {
+    background-color: #f0f1a0;
+    color: white;
+}
+
+.color3 {
+    background-color: #b8f8ad;
+    color: white;
+}
+
+.buttonstyle {
+    height: 80px;
+    width: 50vw;
+    border-radius: 10px;
+    border-width: 0;
+    text-align: center;
+}
+.buttontext {
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: "serif";
+    text-align: center;
+}
+
+.backgroundcolorbeginner {
+    background-color: #E2EAF4;
+    background-size: cover;
+    height: 450vh;
+    
+}
+.beginnerhead {
+    text-align: center;
+    font-size: 80px;
+    color: #5F5B5B;
+    font-family: "serif";
+    font-style: bold;
+}
+.beginnerpara {
+    color: #9b8787;
+    font-size: 30px;
+    font-family: "serif";
+    padding: 50px;
+
+}
+.beginnerpara1 {
+    color: #5F5B5B;
+    font-size: 20px;
+    font-family: "serif";
+    padding: 40px;
+}
+.embedstyle {
+    height: 50vh;
+    width: 50vw;
+    padding: 40px;
+}
